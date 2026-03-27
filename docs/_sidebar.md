@@ -5,6 +5,7 @@
 + [配置](/configuration.md)
 + [获取 vote_id](/vote_id.md)
 + [`.ivi` 文件和 `ivitools` 相关](/ivifile.md)
++ [字幕上传指南](/subtitle_upload.md)
 + [模块请求库相关](/request_client.md)
 + API 示例
     + [activity.py - 活动](/examples/activity.md)
@@ -12,6 +13,7 @@
     + [article_category.py - 专栏分类](/examples/article_category.md)
     + [article.py - 专栏](/examples/article.md)
     + [ass.py - ASS 弹幕/字幕](/examples/ass.md)
+    + [字幕上传示例](/examples/subtitle_upload.md)
     + [audio_uploader.py - 音频上传](/examples/audio_uploader.md)
     + [audio.py - 音频](/examples/audio.md)
     + [bangumi.py - 番剧](/examples/bangumi.md)
